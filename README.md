@@ -1,1 +1,1 @@
-# mog-api
+# study go mog
